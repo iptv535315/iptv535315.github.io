@@ -99,7 +99,7 @@
 49,https://video.huishenghuo888888.com/jingpin/20210828/rNITvlHd/index.m3u8
 50,https://video.huishenghuo888888.com/jingpin/20210828/QJKP1ttU/index.m3u8
 
-音乐频道,_7638#genre#
+音乐频道_7638#genre#
 生活在地下-张佺,https://files.catbox.moe/fgl83u.mp4
 生活在地下-野孩子乐队,https://files.catbox.moe/g22qkg.mp4
 生活在地下-谢天笑,https://files.catbox.moe/kx0asu.mp4
