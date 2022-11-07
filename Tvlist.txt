@@ -1,11 +1,11 @@
-网络电视,#genre#
+📺网络电视,#genre#
 
-瑞丽,http://live.ynurl.com/video/s10021-rltv/index.m3u8
-无线新闻,http://dllb.jxin122.top/jj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-无线财经,http://dllb.jxin122.top/jj.php?id=79&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-香港603,http://dllb.jxin122.top/jj.php?id=92&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-有线18台,http://dllb.jxin122.top/jj.php?id=59&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-TVB星河频道,http://dllb.jxin122.top/jj.php?id=76&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+瑞丽衛視,http://live.ynurl.com/video/s10021-rltv/index.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+博白综合,http://live-cdn.gxxw.com/hls/a22/index.m3u8
+靖江新闻綜合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+湖南卫视,http://115.149.139.141:10001/tsfile/live/1023_1.m3u8
 港版美亚,http://dllb.jxin122.top/jj.php?id=89&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 天映频道,http://dllb.jxin122.top/jj.php?id=15&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 凤凰香港,http://dllb.jxin122.top/jj.php?id=98&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
@@ -58,7 +58,7 @@ now新聞,http://dm1133.kglink.xyz/play/04.ts
 JD111我的少女时代,https://t18.cdn2020.com:12342/video/m3u8/2022/05/08/4619ecc0/index.m3u8
 南方卫视,http://k3.skyhi.top:8000/udp/239.77.0.9:5146
 🎵音乐频道,#genre#
-
+DJ三月里的小雨,https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
 王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
 
 王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
