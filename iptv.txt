@@ -1,1 +1,45 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://115.149.139.141:10001/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv3
+http://115.149.139.141:10001/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv4
+http://115.149.139.141:10001/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv1
+http://115.149.139.141:10001/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv2
+http://115.149.139.141:10001/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv5
+http://115.149.139.141:10001/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv6
+http://115.149.139.141:10001/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv7
+http://115.149.139.141:10001/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="未分组",cctv8
+http://115.149.139.141:10001/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",cctv10
+http://115.149.139.141:10001/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",cctv11
+http://115.149.139.141:10001/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",cctv12
+http://115.149.139.141:10001/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",cctv13
+http://115.149.139.141:10001/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",cctv14
+http://115.149.139.141:10001/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="1cctv9，http://115.149.139.141:10001/tsfile/live/1010_1.m3u8",瑞丽卫视
+http://live.ynurl.com/video/s10021-rltv/index.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",博白综合
+http://live-cdn.gxxw.com/hls/a22/index.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",靖江新闻综合
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",龙华日韩
+http://123.51.230.108:18551/playlist.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",龙华戏
+http://123.51.230.108:18513/playlist.m3u8
+#EXTINF:-1 group-title="大爱二台，https://pulltv2.wanfudaluye.com/live/tv2.m3u8",纬来综合
+http://123.51.230.108:18540/playlist.m3u8
+#EXTINF:-1 group-title="卫视卡式台，https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/277260/live_372775317_46465575_1500/index.m3u8",tvb星河
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
