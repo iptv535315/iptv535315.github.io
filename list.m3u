@@ -19,9 +19,9 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="Business",衛視卡式臺 (1080p)
 https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/277260/live_372775317_46465575_1500/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV-3综艺 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4中文国际 (540p)
-http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-4中文国际 (576p)
-http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",女神影院 (1080p)
+https://pull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",午夜影院 (540p)
+https://pull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金馬影院 (576p)
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
