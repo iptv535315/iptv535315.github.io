@@ -99,6 +99,13 @@ TVBS,http://dllb.jxin122.top/jj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c0
 TVBS新闻台,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中天亚洲台,http://dllb.jxin122.top/jj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 📺港臺电视,#genre#
+广东珠江,http://183.0.186.83:2233/hls/2/index.m3u8
+广东新闻,http://183.0.186.83:2233/hls/3/index.m3u8
+广东公共,http://183.0.186.83:2233/hls/4/index.m3u8
+广东影视,http://183.0.186.83:2233/hls/5/index.m3u8
+6,http://183.0.186.83:2233/hls/6/index.m3u8
+7,http://183.0.186.83:2233/hls/7/index.m3u8
+8,http://183.0.186.83:2233/hls/8/index.m3u8
 民视频道台,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 中视新闻台,https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 寰宇新闻台,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
